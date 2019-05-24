@@ -1,5 +1,4 @@
-```json
-[
+var friendArray = [
     {
         "name":"Ahmed",
         "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -33,7 +32,7 @@
             "2"
         ]
     },
-    
+
     {
         "name": "Jeremiah Scanlon",
         "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
@@ -50,5 +49,6 @@
             "5"
         ]
     }
-]
-```
+];
+
+module.exports = friendArray;
